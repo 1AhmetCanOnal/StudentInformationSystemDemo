@@ -1,0 +1,17 @@
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\Business.deps.json
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\Business.dll
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\Business.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\DataAccess.dll
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\Entities.dll
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\DataAccess.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Business\bin\Debug\net8.0-windows\Entities.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.csproj.AssemblyReference.cache
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.AssemblyInfoInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.AssemblyInfo.cs
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.csproj.CoreCompileInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.csproj.Up2Date
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.dll
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\refint\Business.dll
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\Business.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Business\obj\Debug\net8.0-windows\ref\Business.dll

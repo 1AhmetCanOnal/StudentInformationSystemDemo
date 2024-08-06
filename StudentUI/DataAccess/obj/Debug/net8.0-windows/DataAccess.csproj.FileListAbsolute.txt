@@ -1,0 +1,15 @@
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.AssemblyReference.cache
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfoInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfo.cs
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\bin\Debug\net8.0-windows\DataAccess.deps.json
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\bin\Debug\net8.0-windows\DataAccess.dll
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\bin\Debug\net8.0-windows\DataAccess.pdb
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\bin\Debug\net8.0-windows\Entities.dll
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\bin\Debug\net8.0-windows\Entities.pdb
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.Up2Date
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.dll
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\refint\DataAccess.dll
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\DataAccess.pdb
+D:\Projeler\DevExpress_Test\StudentUI\DataAccess\obj\Debug\net8.0-windows\ref\DataAccess.dll

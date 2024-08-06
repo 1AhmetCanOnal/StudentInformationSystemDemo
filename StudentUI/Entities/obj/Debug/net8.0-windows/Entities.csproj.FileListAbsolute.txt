@@ -1,0 +1,11 @@
+D:\Projeler\DevExpress_Test\StudentUI\Entities\bin\Debug\net8.0-windows\Entities.deps.json
+D:\Projeler\DevExpress_Test\StudentUI\Entities\bin\Debug\net8.0-windows\Entities.dll
+D:\Projeler\DevExpress_Test\StudentUI\Entities\bin\Debug\net8.0-windows\Entities.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfoInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfo.cs
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.csproj.CoreCompileInputs.cache
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.dll
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\refint\Entities.dll
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\Entities.pdb
+D:\Projeler\DevExpress_Test\StudentUI\Entities\obj\Debug\net8.0-windows\ref\Entities.dll
